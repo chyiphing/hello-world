@@ -1,2 +1,3 @@
 # hello-world
-new repository
+Hi, I am Chyi Phing, I'm from Malaysia.
+I'm new to coding
